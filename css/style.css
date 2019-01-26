@@ -1,0 +1,8 @@
+body {
+  overflow: hidden;
+}
+
+@font-face {
+  font-family: "Prueba";
+  src: url("../fonts/Acme/Acme-Regular.ttf")
+}
