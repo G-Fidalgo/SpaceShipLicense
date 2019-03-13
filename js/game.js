@@ -46,7 +46,7 @@ var Game = {
 
   portalGunCounter: 0,
 
-  portalGunGoal: 15,
+  portalGunGoal: 6,
 
   portalGunfiller: undefined,
 
